@@ -32,7 +32,7 @@
         <ul class="submenu">
             <li>english</li>
             <li>/</li>
-            <li><a href="http://openframeworks.jp">japanese</a></li>
+            <li>other</li>
         </ul>
 		</div>
 </div><!-- head -->
